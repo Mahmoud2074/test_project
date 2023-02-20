@@ -106,7 +106,7 @@
 }
 .landing-content{
      max-width:450px ;
-     position: fixed;
+     position: absolute;
      margin: 10% 15%;
      
 }
